@@ -18,10 +18,10 @@
 ## 限选
 
 - [操作系统](https://github.com/EESAST/courses/tree/master/操作系统)
+- [视听信息系统导论](https://github.com/EESAST/courses/tree/master/视听信息系统导论)
 - [数字图像处理](https://github.com/EESAST/courses/tree/master/数字图像处理)
 - [数字信号处理](https://github.com/EESAST/courses/tree/master/数字信号处理)
 
 ## 任选
 
 - [计算机网络](https://github.com/EESAST/courses/tree/master/计算机网络)
-- [视听信息系统导论](https://github.com/EESAST/courses/tree/master/视听信息系统导论)
