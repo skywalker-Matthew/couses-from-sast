@@ -25,3 +25,4 @@
 ## 任选
 
 - [计算机网络](https://github.com/EESAST/courses/tree/master/计算机网络)
+- [数据库](https://github.com/EESAST/courses/tree/master/数据库)
