@@ -21,6 +21,7 @@
 - [视听信息系统导论](https://github.com/EESAST/courses/tree/master/视听信息系统导论)
 - [数字图像处理](https://github.com/EESAST/courses/tree/master/数字图像处理)
 - [数字信号处理](https://github.com/EESAST/courses/tree/master/数字信号处理)
+- [信息网原理设计](https://github.com/EESAST/courses/tree/master/信息网原理设计)
 
 ## 任选
 
